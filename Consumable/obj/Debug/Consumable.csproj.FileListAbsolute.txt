@@ -1,0 +1,10 @@
+C:\Users\홍동우123\source\repos\Consumable\Consumable\bin\Debug\Consumable.exe.config
+C:\Users\홍동우123\source\repos\Consumable\Consumable\bin\Debug\Consumable.exe
+C:\Users\홍동우123\source\repos\Consumable\Consumable\bin\Debug\Consumable.pdb
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.csproj.AssemblyReference.cache
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.Form1.resources
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.Properties.Resources.resources
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.csproj.GenerateResource.cache
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.csproj.CoreCompileInputs.cache
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.exe
+C:\Users\홍동우123\source\repos\Consumable\Consumable\obj\Debug\Consumable.pdb
